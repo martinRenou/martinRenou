@@ -9,51 +9,31 @@ I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mos
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=martinRenou&show_icons=true)
 
-## Jupyter
+## Projects
 
-### Interactive Widgets in Jupyter
+I contribute to many open-source projects, mostly around the Jupyter ecosystem:
 
-Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets), I contribute to multiple interactive widgets packages including:
+<a href="https://github.com/jupyter-widgets/ipywidgets">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true" />
+</a>
+<a href="https://github.com/jupyter-widgets/ipyleaflet">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true" />
+</a>
 
-<div style="display: grid; grid-template-columns: auto auto;">
-  <a href="https://github.com/jupyter-widgets/ipywidgets">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true" />
-  </a>
-  <a href="https://github.com/jupyter-widgets/ipyleaflet">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true" />
-  </a>
-</div>
+<a href="https://github.com/bqplot/bqplot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true" />
+</a>
+<a href="https://github.com/matplotlib/ipympl">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl&show_owner=true" />
+</a>
 
-<div style="display: grid; grid-template-columns: auto auto;">
-  <a href="https://github.com/bqplot/bqplot">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true" />
-  </a>
-  <a href="https://github.com/MaartenBreddels/ipywebrtc">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MaartenBreddels&repo=ipywebrtc&show_owner=true" />
-  </a>
-</div>
-
----
-
-Member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the interactive Matplotlib back-end for Jupyter:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl&show_owner=true)](https://github.com/matplotlib/ipympl)
-
-<!--  [ipywidgets](https://github.com/jupyter-widgets/ipywidgets): Interactive widgets in Jupyter
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet): Interactive maps
-- [bqplot](https://github.com/bqplot/bqplot): 2D interactive plotting
-- [ipywebrtc](https://github.com/maartenBreddels/ipywebrtc): Video streaming
-- [ipympl](https://github.com/matplotlib/ipympl): Interactive Matplotlib back-end for Jupyter
-
-We also develop the C++ implementations of those widgets libraries, for [xeus-cling](https://github.com/jupyter-xeus/xeus-cling):
-- [xwidgets](https://github.com/jupyter-xeus/xwidgets): C++ counterpart of ipywidgets
-- [xleaflet](https://github.com/jupyter-xeus/xleaflet): C++ counterpart of ipyleaflet
-- [xplot](https://github.com/bqplot/xplot): C++ counterpart of bqplot
-
-As side projects, I also work on:
-- [ipytree](https://github.com/QuantStack/ipytree): Tree widget for Jupyter
-- [ipycanvas](https://github.com/martinRenou/ipycanvas): Canvas widget exposing the Web Canvas 2D API to Python
-
+<a href="https://github.com/martinRenou/ipycanvas">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ipycanvas&show_owner=true" />
+</a>
+<a href="https://github.com/QuantStack/ipytree">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipytree&show_owner=true" />
+</a>
+<!--
 ### Jupyter language kernels
 
 At QuantStack we develop a C++ library named [xeus](https://github.com/jupyter-xeus/xeus) which helps kernel authoring and we wrote multiple language kernels with it:
@@ -71,5 +51,4 @@ I authored [pybind11_json](https://github.com/pybind/pybind11_json), a bridge be
 
 ## Packaging
 
-Member of the conda-forge organization, I contribute to many conda packages.
- -->
+Member of the conda-forge organization, I contribute to many conda packages. -->
