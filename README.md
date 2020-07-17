@@ -1,12 +1,7 @@
 # Martin Renou, Scientific Software Engineer
 
-<a class="twitter-follow-button"
-  href="https://twitter.com/martinRenou"
-  data-size="large"
-  data-show-screen-name=false>
-Follow me!</a>
-[![Twitter Badge](https://img.shields.io/twitter/follow/martinRenou?style=social)](https://twitter.com/martinRenou)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/martin-renou)
+[![Twitter Badge](https://img.shields.io/twitter/follow/martinRenou?style=for-the-badge)](https://twitter.com/martinRenou)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/martin-renou)
 
 I currently work at [QuantStack](https://quantstack.net) as a Scientific Software Engineer. As part of my work at QuantStack, I contribute to multiple open-source projects.
 
