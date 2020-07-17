@@ -22,7 +22,18 @@ Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets)
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true" />
 </a>
 
--<!--  [ipywidgets](https://github.com/jupyter-widgets/ipywidgets): Interactive widgets in Jupyter
+<a href="https://github.com/bqplot/bqplot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true" />
+</a>
+<a href="https://github.com/MaartenBreddels/ipywebrtc">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MaartenBreddels&repo=ipywebrtc&show_owner=true" />
+</a>
+
+Member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the interactive Matplotlib back-end for Jupyter:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl)](https://github.com/matplotlib/ipympl)
+
+<!--  [ipywidgets](https://github.com/jupyter-widgets/ipywidgets): Interactive widgets in Jupyter
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet): Interactive maps
 - [bqplot](https://github.com/bqplot/bqplot): 2D interactive plotting
 - [ipywebrtc](https://github.com/maartenBreddels/ipywebrtc): Video streaming
