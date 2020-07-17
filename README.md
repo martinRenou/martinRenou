@@ -11,7 +11,9 @@ I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mos
 
 ## Projects
 
-I contribute to many open-source projects, mostly around the Jupyter ecosystem:
+### Jupyter Interactive Widgets
+
+<!-- I contribute to many open-source projects, mostly around the Jupyter ecosystem: -->
 
 <a href="https://github.com/jupyter-widgets/ipywidgets">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true" />
@@ -33,6 +35,11 @@ I contribute to many open-source projects, mostly around the Jupyter ecosystem:
 <a href="https://github.com/QuantStack/ipytree">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipytree&show_owner=true" />
 </a>
+
+### Jupyter Language Kernels
+
+### Title 3
+
 <!--
 ### Jupyter language kernels
 
