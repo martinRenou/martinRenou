@@ -1,5 +1,10 @@
 # Martin Renou, Scientific Software Engineer
 
+<a class="twitter-follow-button"
+  href="https://twitter.com/martinRenou"
+  data-size="large"
+  data-show-screen-name=false>
+Follow me!</a>
 [![Twitter Badge](https://img.shields.io/twitter/follow/martinRenou?style=social)](https://twitter.com/martinRenou)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/martin-renou)
 
@@ -28,6 +33,8 @@ Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets)
 <a href="https://github.com/MaartenBreddels/ipywebrtc">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MaartenBreddels&repo=ipywebrtc&show_owner=true" />
 </a>
+
+---
 
 Member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the interactive Matplotlib back-end for Jupyter:
 
