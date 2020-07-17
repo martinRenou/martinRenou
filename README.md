@@ -15,29 +15,31 @@ I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mos
 
 Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets), I contribute to multiple interactive widgets packages including:
 
-<div>
-  <a href="https://github.com/jupyter-widgets/ipywidgets">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true" />
-  </a>
-  <a href="https://github.com/jupyter-widgets/ipyleaflet">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true" />
-  </a>
-</div>
+<div style="display: grid; grid-template-columns: auto auto;">
+  <div>
+    <a href="https://github.com/jupyter-widgets/ipywidgets">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true" />
+    </a>
+    <a href="https://github.com/jupyter-widgets/ipyleaflet">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true" />
+    </a>
+  </div>
 
-<div>
-  <a href="https://github.com/bqplot/bqplot">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true" />
-  </a>
-  <a href="https://github.com/MaartenBreddels/ipywebrtc">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MaartenBreddels&repo=ipywebrtc&show_owner=true" />
-  </a>
+  <div>
+    <a href="https://github.com/bqplot/bqplot">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true" />
+    </a>
+    <a href="https://github.com/MaartenBreddels/ipywebrtc">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MaartenBreddels&repo=ipywebrtc&show_owner=true" />
+    </a>
+  </div>
 </div>
 
 ---
 
 Member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the interactive Matplotlib back-end for Jupyter:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl)](https://github.com/matplotlib/ipympl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl&show_owner=true)](https://github.com/matplotlib/ipympl)
 
 <!--  [ipywidgets](https://github.com/jupyter-widgets/ipywidgets): Interactive widgets in Jupyter
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet): Interactive maps
