@@ -3,15 +3,13 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/martinRenou?style=for-the-badge)](https://twitter.com/martinRenou)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/martin-renou)
 
-I currently work at [QuantStack](https://quantstack.net) as a Scientific Software Engineer. As part of my work at QuantStack, I contribute to multiple open-source projects.
+I currently work at [QuantStack](https://quantstack.net) (Paris, France) as a Scientific Software Engineer. Worked at [Enthought](https://github.com/Enthought) (Cambridge, UK) and [Logilab](https://github.com/logilab) (Paris, France). Studied at ISAE-SUPAERO aerospace engineering school.
 
-I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mostly work around the Jupyter ecosystem.
+As part of my work at QuantStack, I contribute to multiple open-source projects. I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mainly work around the [Jupyter](https://jupyter.org) ecosystem.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=martinRenou&show_icons=true)
 
 ## Projects
-
-I contribute to many open-source projects, mostly around the Jupyter ecosystem:
 
 <a href="https://github.com/jupyter-widgets/ipywidgets">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true" />
