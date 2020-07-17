@@ -1,15 +1,28 @@
-# Scientific Software Engineer
+# Martin Renou, Scientific Software Engineer
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/martinRenou?style=social)](https://twitter.com/martinRenou)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/martin-renou)
 
 I currently work at [QuantStack](https://quantstack.net) as a Scientific Software Engineer. As part of my work at QuantStack, I contribute to multiple open-source projects.
 
 I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mostly work around the Jupyter ecosystem.
 
+![github stats](https://github-readme-stats.vercel.app/api?username=martinRenou&show_icons=true)
+
 ## Jupyter
 
 ### Interactive Widgets in Jupyter
 
-Member of the Jupyter Widgets organization, I contribute to multiple interactive widgets packages including:
-- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets): Interactive widgets in Jupyter
+Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets), I contribute to multiple interactive widgets packages including:
+
+<a href="https://github.com/jupyter-widgets/ipywidgets">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true" />
+</a>
+<a href="https://github.com/jupyter-widgets/ipyleaflet">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true" />
+</a>
+
+-<!--  [ipywidgets](https://github.com/jupyter-widgets/ipywidgets): Interactive widgets in Jupyter
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet): Interactive maps
 - [bqplot](https://github.com/bqplot/bqplot): 2D interactive plotting
 - [ipywebrtc](https://github.com/maartenBreddels/ipywebrtc): Video streaming
@@ -42,3 +55,4 @@ I authored [pybind11_json](https://github.com/pybind/pybind11_json), a bridge be
 ## Packaging
 
 Member of the conda-forge organization, I contribute to many conda packages.
+ -->
