@@ -12,39 +12,35 @@ As part of my work at QuantStack, I contribute to multiple open-source projects.
 
 ## Projects
 
+### Interactive Widgets in Jupyter
+
+Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets), I contribute to multiple Interactive Widgets libraries:
+
 [![ipywidgets](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true)](https://github.com/jupyter-widgets/ipywidgets)
 [![ipyleaflet](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true)](https://github.com/jupyter-widgets/ipyleaflet)
+[![bqplot](https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true)](https://github.com/bqplot/bqplot)
 
-## This is a new title
+Also member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the Interactive Matplotlib back-end for Jupyter:
 
-<a href="https://github.com/bqplot/bqplot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true" />
-</a>
-<a href="https://github.com/matplotlib/ipympl">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl&show_owner=true" />
-</a>
+[![ipympl](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl&show_owner=true)](https://github.com/matplotlib/ipympl)
 
-<a href="https://github.com/martinRenou/ipycanvas">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ipycanvas&show_owner=true" />
-</a>
-<a href="https://github.com/QuantStack/ipytree">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipytree&show_owner=true" />
-</a>
+I also created two widgets libraries during my spare-time:
 
-<a href="https://github.com/jupyter-xeus/xeus-python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-python&show_owner=true" />
-</a>
-<a href="https://github.com/jupyter-xeus/xeus-sqlite">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-sqlite&show_owner=true" />
-</a>
+[![ipycanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ipycanvas&show_owner=true)](https://github.com/martinRenou/ipycanvas)
+[![ipytree](https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipytree&show_owner=true)](https://github.com/QuantStack/ipytree)
 
-<a href="https://github.com/voila-dashboards/voila">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila&show_owner=true" />
-</a>
-<a href="https://github.com/voila-dashboards/voila-material">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila-material&show_owner=true" />
-</a>
+### Language kernels for Jupyter
 
-<a href="https://github.com/pybind/pybind11_json">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pybind&repo=pybind11_json&show_owner=true" />
-</a>
+[![xeus-cling](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-cling&show_owner=true)](https://github.com/jupyter-xeus/xeus-cling)
+[![xeus-python](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-python&show_owner=true)](https://github.com/jupyter-xeus/xeus-python)
+[![xeus-sqlite](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-sqlite&show_owner=true)](https://github.com/jupyter-xeus/xeus-sqlite)
+
+### Dashboarding with Jupyter
+
+[![voila](https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila&show_owner=true)](https://github.com/voila-dashboards/voila)
+[![voila-material](https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila-material&show_owner=true)](https://github.com/voila-dashboards/voila-material)
+
+### Others
+
+[![pybind11_json](https://github-readme-stats.vercel.app/api/pin/?username=pybind&repo=pybind11_json&show_owner=true)](https://github.com/pybind/pybind11_json)
+[![pysfml11](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=pysfml11&show_owner=true)](https://github.com/martinRenou/pysfml11)
