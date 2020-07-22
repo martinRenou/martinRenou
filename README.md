@@ -12,12 +12,8 @@ As part of my work at QuantStack, I contribute to multiple open-source projects.
 
 ## Projects
 
-<a href="https://github.com/jupyter-widgets/ipywidgets">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true" />
-</a>
-<a href="https://github.com/jupyter-widgets/ipyleaflet">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true" />
-</a>
+[![ipywidgets](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true)](https://github.com/jupyter-widgets/ipywidgets)
+[![ipyleaflet](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true)](https://github.com/jupyter-widgets/ipyleaflet)
 
 <a href="https://github.com/bqplot/bqplot">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true" />
