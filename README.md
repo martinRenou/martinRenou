@@ -19,6 +19,7 @@ Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets)
 [![ipywidgets](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&show_owner=true)](https://github.com/jupyter-widgets/ipywidgets)
 [![ipyleaflet](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true)](https://github.com/jupyter-widgets/ipyleaflet)
 [![bqplot](https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true)](https://github.com/bqplot/bqplot)
+[![ipywebrtc](https://github-readme-stats.vercel.app/api/pin/?username=maartenBreddels&repo=ipywebrtc&show_owner=true)](https://github.com/maartenBreddels/ipywebrtc)
 
 Also member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the Interactive Matplotlib back-end for Jupyter:
 
@@ -31,6 +32,7 @@ I also created two widgets libraries during my spare-time:
 
 ### Language kernels for Jupyter
 
+[![xeus](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus&show_owner=true)](https://github.com/jupyter-xeus/xeus)
 [![xeus-cling](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-cling&show_owner=true)](https://github.com/jupyter-xeus/xeus-cling)
 [![xeus-python](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-python&show_owner=true)](https://github.com/jupyter-xeus/xeus-python)
 [![xeus-sqlite](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-sqlite&show_owner=true)](https://github.com/jupyter-xeus/xeus-sqlite)
