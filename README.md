@@ -8,7 +8,6 @@ I currently work at [QuantStack](https://quantstack.net) (Paris, France) as a Sc
 As part of my work at QuantStack, I contribute to multiple open-source projects. I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mainly work around the [Jupyter](https://jupyter.org) ecosystem.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=martinRenou&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinRenou)
 
 ## Projects
 
