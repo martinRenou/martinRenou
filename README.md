@@ -3,12 +3,9 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/martinRenou?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/martinRenou)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=cornflowerblue)](https://www.linkedin.com/in/martin-renou)
 
-I currently work at [QuantStack](https://quantstack.net) (Paris, France) as a Scientific Software Engineer. Worked at [Enthought](https://github.com/Enthought) (Cambridge, UK) and [Logilab](https://github.com/logilab) (Paris, France). Studied at ISAE-SUPAERO aerospace engineering school.
+I work at [QuantStack](https://quantstack.net) (Paris, France) as a Scientific Software Engineer. Worked at [Enthought](https://github.com/Enthought) (Cambridge, UK) and [Logilab](https://github.com/logilab) (Paris, France). Studied at ISAE-SUPAERO aerospace engineering school.
 
 As part of my work at QuantStack, I contribute to multiple open-source projects. I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mainly work around the [Jupyter](https://jupyter.org) ecosystem.
-
-![github stats](https://github-readme-stats.vercel.app/api?username=martinRenou&show_icons=true)
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martinRenou&layout=compact&hide=Jupyter%20Notebook)
 
 ## Projects
 
@@ -20,6 +17,7 @@ Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets)
 [![ipyleaflet](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&show_owner=true)](https://github.com/jupyter-widgets/ipyleaflet)
 [![bqplot](https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&show_owner=true)](https://github.com/bqplot/bqplot)
 [![ipywebrtc](https://github-readme-stats.vercel.app/api/pin/?username=maartenBreddels&repo=ipywebrtc&show_owner=true)](https://github.com/maartenBreddels/ipywebrtc)
+[![ipygany](https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipygany&show_owner=true)](https://github.com/QuantStack/ipygany)
 
 Also member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the Interactive Matplotlib back-end for Jupyter:
 
@@ -42,7 +40,13 @@ I also created two widgets libraries during my spare-time:
 [![voila](https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila&show_owner=true)](https://github.com/voila-dashboards/voila)
 [![voila-material](https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila-material&show_owner=true)](https://github.com/voila-dashboards/voila-material)
 
+### JupyterLab
+
+[![jupyterlab-fileopen](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=jupyterlab-fileopen&show_owner=true)](https://github.com/martinRenou/jupyterlab-fileopen)
+
 ### Others
 
 [![pybind11_json](https://github-readme-stats.vercel.app/api/pin/?username=pybind&repo=pybind11_json&show_owner=true)](https://github.com/pybind/pybind11_json)
 [![pysfml11](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=pysfml11&show_owner=true)](https://github.com/martinRenou/pysfml11)
+[![threejs-water](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-water&show_owner=true)](https://github.com/martinRenou/threejs-water)
+[![threejs-caustics](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-caustics&show_owner=true)](https://github.com/martinRenou/threejs-caustics)
