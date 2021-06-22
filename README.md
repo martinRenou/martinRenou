@@ -50,3 +50,5 @@ I also created two widgets libraries during my spare-time:
 [![pysfml11](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=pysfml11&theme=dark&show_owner=true)](https://github.com/martinRenou/pysfml11)
 [![threejs-water](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-water&theme=dark&show_owner=true)](https://github.com/martinRenou/threejs-water)
 [![threejs-caustics](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-caustics&theme=dark&show_owner=true)](https://github.com/martinRenou/threejs-caustics)
+[![ToonChess](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ToonChess&theme=dark&show_owner=true)](https://github.com/martinRenou/ToonChess)
+
