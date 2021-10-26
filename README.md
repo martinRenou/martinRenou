@@ -2,6 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/martinRenou?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/martinRenou)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=cornflowerblue)](https://www.linkedin.com/in/martin-renou)
+[![Medium Badge](https://img.shields.io/badge/Medium-blue?style=flat-square&logo=Medium&logoColor=white&color=cornflowerblue)](https://medium.com/@martinRenou)
 
 I work at [QuantStack](https://quantstack.net) (Paris, France) as a Scientific Software Engineer. Worked at [Enthought](https://github.com/Enthought) (Cambridge, UK) and [Logilab](https://github.com/logilab) (Paris, France). Studied at ISAE-SUPAERO aerospace engineering school.
 
@@ -26,6 +27,7 @@ Also member of the [Matplotlib organization](https://github.com/matplotlib), I c
 I also created two widgets libraries during my spare-time:
 
 [![ipycanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ipycanvas&theme=dark&show_owner=true)](https://github.com/martinRenou/ipycanvas)
+[![xcanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=xcanvas&theme=dark&show_owner=true)](https://github.com/martinRenou/xcanvas)
 [![ipytree](https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipytree&theme=dark&show_owner=true)](https://github.com/QuantStack/ipytree)
 
 ### Language kernels for Jupyter
@@ -44,11 +46,14 @@ I also created two widgets libraries during my spare-time:
 
 [![jupyterlab-fileopen](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=jupyterlab-fileopen&theme=dark&show_owner=true)](https://github.com/martinRenou/jupyterlab-fileopen)
 
-### Others
+### 3D
 
-[![pybind11_json](https://github-readme-stats.vercel.app/api/pin/?username=pybind&repo=pybind11_json&theme=dark&show_owner=true)](https://github.com/pybind/pybind11_json)
-[![pysfml11](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=pysfml11&theme=dark&show_owner=true)](https://github.com/martinRenou/pysfml11)
 [![threejs-water](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-water&theme=dark&show_owner=true)](https://github.com/martinRenou/threejs-water)
 [![threejs-caustics](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-caustics&theme=dark&show_owner=true)](https://github.com/martinRenou/threejs-caustics)
 [![ToonChess](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ToonChess&theme=dark&show_owner=true)](https://github.com/martinRenou/ToonChess)
 
+### Others
+
+[![pybind11_json](https://github-readme-stats.vercel.app/api/pin/?username=pybind&repo=pybind11_json&theme=dark&show_owner=true)](https://github.com/pybind/pybind11_json)
+[![xjson](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=xjson&theme=dark&show_owner=true)](https://github.com/martinRenou/xjson)
+[![pysfml11](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=pysfml11&theme=dark&show_owner=true)](https://github.com/martinRenou/pysfml11)
