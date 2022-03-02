@@ -24,7 +24,7 @@ Also member of the [Matplotlib organization](https://github.com/matplotlib), I c
 
 [![ipympl](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl&theme=dark&show_owner=true)](https://github.com/matplotlib/ipympl)
 
-I also created two widgets libraries during my spare-time:
+Extra widgets libraries for the fun of it:
 
 [![ipycanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ipycanvas&theme=dark&show_owner=true)](https://github.com/martinRenou/ipycanvas)
 [![xcanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=xcanvas&theme=dark&show_owner=true)](https://github.com/martinRenou/xcanvas)
@@ -42,9 +42,15 @@ I also created two widgets libraries during my spare-time:
 [![voila](https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila&theme=dark&show_owner=true)](https://github.com/voila-dashboards/voila)
 [![voila-material](https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila-material&theme=dark&show_owner=true)](https://github.com/voila-dashboards/voila-material)
 
-### JupyterLab
+### JupyterLab extensions
 
-[![jupyterlab-fileopen](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=jupyterlab-fileopen&theme=dark&show_owner=true)](https://github.com/martinRenou/jupyterlab-fileopen)
+[![jupyterlab-unfold](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlab-contrib&repo=jupyterlab-unfold&theme=dark&show_owner=true)](https://github.com/jupyterlab-contrib/jupyterlab-unfold)
+[![jupyterlab-fileopen](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlab-contrib&repo=jupyterlab-fileopen&theme=dark&show_owner=true)](https://github.com/jupyterlab-contrib/jupyterlab-fileopen)
+
+### JupyterLite
+
+[![jupyterlite](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlite&repo=jupyterlite&theme=dark&show_owner=true)](https://github.com/jupyterlite/jupyterlite)
+[![jupyterlite-sphinx](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlite&repo=jupyterlite-sphinx&theme=dark&show_owner=true)](https://github.com/jupyterlite/jupyterlite-sphinx)
 
 ### 3D
 
