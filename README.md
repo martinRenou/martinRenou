@@ -17,6 +17,7 @@ Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets)
 [![ipywidgets](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipywidgets&theme=dark&show_owner=true)](https://github.com/jupyter-widgets/ipywidgets)
 [![ipyleaflet](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets&repo=ipyleaflet&theme=dark&show_owner=true)](https://github.com/jupyter-widgets/ipyleaflet)
 [![bqplot](https://github-readme-stats.vercel.app/api/pin/?username=bqplot&repo=bqplot&theme=dark&show_owner=true)](https://github.com/bqplot/bqplot)
+[![ipydatagrid](https://github-readme-stats.vercel.app/api/pin/?username=bloomberg&repo=ipydatagrid&theme=dark&show_owner=true)](https://github.com/bloomberg/ipydatagrid)
 [![ipywebrtc](https://github-readme-stats.vercel.app/api/pin/?username=maartenBreddels&repo=ipywebrtc&theme=dark&show_owner=true)](https://github.com/maartenBreddels/ipywebrtc)
 [![ipygany](https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipygany&theme=dark&show_owner=true)](https://github.com/QuantStack/ipygany)
 
