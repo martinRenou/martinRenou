@@ -52,14 +52,15 @@ Extra widgets libraries for the fun of it:
 
 [![jupyterlite](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlite&repo=jupyterlite&theme=dark&show_owner=true)](https://github.com/jupyterlite/jupyterlite)
 [![jupyterlite-sphinx](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlite&repo=jupyterlite-sphinx&theme=dark&show_owner=true)](https://github.com/jupyterlite/jupyterlite-sphinx)
+[![jupyterlite-xeus-python](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlite&repo=xeus-python-kernel&theme=dark&show_owner=true)](https://github.com/jupyterlite/xeus-python-kernel)
 
-### 3D
+### 3D with OpenGL and WebGL
 
 [![threejs-water](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-water&theme=dark&show_owner=true)](https://github.com/martinRenou/threejs-water)
 [![threejs-caustics](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-caustics&theme=dark&show_owner=true)](https://github.com/martinRenou/threejs-caustics)
 [![ToonChess](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ToonChess&theme=dark&show_owner=true)](https://github.com/martinRenou/ToonChess)
 
-### Others
+### Miscellaneous
 
 [![pybind11_json](https://github-readme-stats.vercel.app/api/pin/?username=pybind&repo=pybind11_json&theme=dark&show_owner=true)](https://github.com/pybind/pybind11_json)
 [![xjson](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=xjson&theme=dark&show_owner=true)](https://github.com/martinRenou/xjson)
