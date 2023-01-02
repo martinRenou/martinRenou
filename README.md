@@ -8,9 +8,9 @@ I work at [QuantStack](https://quantstack.net) (Paris, France) as a Scientific S
 
 As part of my work at QuantStack, I contribute to multiple open-source projects. I mostly do Python, C++, TypeScript and JavaScript (order of preference) and mainly work around the [Jupyter](https://jupyter.org) ecosystem.
 
-## Projects
+## 📚 Projects I contribute to:
 
-### Interactive Widgets in Jupyter
+### 🧩 Interactive Widgets in Jupyter
 
 Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets), I contribute to multiple Interactive Widgets libraries:
 
@@ -21,34 +21,42 @@ Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets)
 [![ipywebrtc](https://github-readme-stats.vercel.app/api/pin/?username=maartenBreddels&repo=ipywebrtc&theme=dark&show_owner=true)](https://github.com/maartenBreddels/ipywebrtc)
 [![ipygany](https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipygany&theme=dark&show_owner=true)](https://github.com/QuantStack/ipygany)
 
-Also member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the Interactive Matplotlib back-end for Jupyter:
-
-[![ipympl](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl&theme=dark&show_owner=true)](https://github.com/matplotlib/ipympl)
-
 Extra widgets libraries for the fun of it:
 
 [![ipycanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ipycanvas&theme=dark&show_owner=true)](https://github.com/martinRenou/ipycanvas)
 [![xcanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=xcanvas&theme=dark&show_owner=true)](https://github.com/martinRenou/xcanvas)
 [![ipytree](https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipytree&theme=dark&show_owner=true)](https://github.com/QuantStack/ipytree)
 
-### Language kernels for Jupyter
+### 📊 Matplotlib
+
+Also member of the [Matplotlib organization](https://github.com/matplotlib), I contribute to the Interactive Matplotlib back-end for Jupyter:
+
+[![ipympl](https://github-readme-stats.vercel.app/api/pin/?username=matplotlib&repo=ipympl&theme=dark&show_owner=true)](https://github.com/matplotlib/ipympl)
+
+### 🐍 Language kernels for Jupyter
 
 [![xeus](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus&theme=dark&show_owner=true)](https://github.com/jupyter-xeus/xeus)
 [![xeus-cling](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-cling&theme=dark&show_owner=true)](https://github.com/jupyter-xeus/xeus-cling)
 [![xeus-python](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-python&theme=dark&show_owner=true)](https://github.com/jupyter-xeus/xeus-python)
 [![xeus-sqlite](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-xeus&repo=xeus-sqlite&theme=dark&show_owner=true)](https://github.com/jupyter-xeus/xeus-sqlite)
 
-### Dashboarding with Jupyter
+### 🧮 Dashboarding with Jupyter
 
 [![voila](https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila&theme=dark&show_owner=true)](https://github.com/voila-dashboards/voila)
 [![voila-material](https://github-readme-stats.vercel.app/api/pin/?username=voila-dashboards&repo=voila-material&theme=dark&show_owner=true)](https://github.com/voila-dashboards/voila-material)
 
-### JupyterLab extensions
+### 🔬 JupyterLab extensions
 
 [![jupyterlab-unfold](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlab-contrib&repo=jupyterlab-unfold&theme=dark&show_owner=true)](https://github.com/jupyterlab-contrib/jupyterlab-unfold)
 [![jupyterlab-fileopen](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlab-contrib&repo=jupyterlab-fileopen&theme=dark&show_owner=true)](https://github.com/jupyterlab-contrib/jupyterlab-fileopen)
+[![jupyterlab-filesystem-access](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlab-contrib&repo=jupyterlab-filesystem-access&theme=dark&show_owner=true)](https://github.com/jupyterlab-contrib/jupyterlab-filesystem-access)
 
-### JupyterLite
+### 🕶 JupyterLab themes
+
+[![jupyterlab-night](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=jupyterlab-night&theme=dark&show_owner=true)](https://github.com/martinRenou/jupyterlab-night)
+[![jupyterlab-day](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=jupyterlab-day&theme=dark&show_owner=true)](https://github.com/martinRenou/jupyterlab-day)
+
+### 💡 JupyterLite
 
 [![jupyterlite](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlite&repo=jupyterlite&theme=dark&show_owner=true)](https://github.com/jupyterlite/jupyterlite)
 [![jupyterlite-sphinx](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlite&repo=jupyterlite-sphinx&theme=dark&show_owner=true)](https://github.com/jupyterlite/jupyterlite-sphinx)
