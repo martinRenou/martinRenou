@@ -23,7 +23,7 @@ Member of the [Jupyter Widgets organization](https://github.com/jupyter-widgets)
 
 Extra widgets libraries for the fun of it:
 
-[![ipycanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ipycanvas&theme=dark&show_owner=true)](https://github.com/martinRenou/ipycanvas)
+[![ipycanvas](https://github-readme-stats.vercel.app/api/pin/?username=jupyter-widgets-contrib&repo=ipycanvas&theme=dark&show_owner=true)](https://github.com/jupyter-widgets-contrib/ipycanvas)
 [![xcanvas](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=xcanvas&theme=dark&show_owner=true)](https://github.com/martinRenou/xcanvas)
 [![ipytree](https://github-readme-stats.vercel.app/api/pin/?username=QuantStack&repo=ipytree&theme=dark&show_owner=true)](https://github.com/QuantStack/ipytree)
 
@@ -48,8 +48,8 @@ Also member of the [Matplotlib organization](https://github.com/matplotlib), I c
 ### 🔬 JupyterLab extensions
 
 [![jupyterlab-unfold](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlab-contrib&repo=jupyterlab-unfold&theme=dark&show_owner=true)](https://github.com/jupyterlab-contrib/jupyterlab-unfold)
-[![jupyterlab-fileopen](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlab-contrib&repo=jupyterlab-fileopen&theme=dark&show_owner=true)](https://github.com/jupyterlab-contrib/jupyterlab-fileopen)
-[![jupyterlab-filesystem-access](https://github-readme-stats.vercel.app/api/pin/?username=jupyterlab-contrib&repo=jupyterlab-filesystem-access&theme=dark&show_owner=true)](https://github.com/jupyterlab-contrib/jupyterlab-filesystem-access)
+[![jupytercad](https://github-readme-stats.vercel.app/api/pin/?username=jupytercad&repo=jupytercad&theme=dark&show_owner=true)](https://github.com/jupytercad/jupytercad)
+[![jupytergis](https://github-readme-stats.vercel.app/api/pin/?username=geojupyter&repo=jupytergis&theme=dark&show_owner=true)](https://github.com/geojupyter/jupytergis)
 
 ### 🕶 JupyterLab themes
 
