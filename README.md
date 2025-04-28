@@ -64,6 +64,7 @@ Also member of the [Matplotlib organization](https://github.com/matplotlib), I c
 
 ### 3D with OpenGL and WebGL
 
+[![scivijs](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=scivijs&theme=dark&show_owner=true)](https://github.com/martinRenou/scivijs)
 [![threejs-water](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-water&theme=dark&show_owner=true)](https://github.com/martinRenou/threejs-water)
 [![threejs-caustics](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=threejs-caustics&theme=dark&show_owner=true)](https://github.com/martinRenou/threejs-caustics)
 [![ToonChess](https://github-readme-stats.vercel.app/api/pin/?username=martinRenou&repo=ToonChess&theme=dark&show_owner=true)](https://github.com/martinRenou/ToonChess)
